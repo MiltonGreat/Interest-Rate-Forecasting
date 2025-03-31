@@ -1,5 +1,7 @@
 # Interest Rate Forecasting using VAR Model
 
+![screenshot-localhost_8888-2025 03 31-09_34_07](https://github.com/user-attachments/assets/753f19fb-b791-4447-affe-8fd3f831764e)
+
 ### Project Overview
 
 This project focuses on forecasting interest rates using a Vector Autoregression (VAR) model. The goal is to predict future interest rates such as the 10-year bond yield, the 3-month Treasury bill rate, and the Federal Reserve's interest rate (FedRate) over a period of 12 months. The VAR model is used to capture the interdependencies between these variables and generate reliable forecasts based on historical data from 1990 to 2019.
